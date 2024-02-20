@@ -28,17 +28,17 @@ export default function Home() {
       __html: `{
           "@context": "http://schema.org",
           "@type": "WebSite",
-          "name": "Bhagavad Gita AI",
-          "url": "https://bhagavadgita.ai",
+          "name": "KG Gita Gyan KG AI",
+          "url": "https://gita.ai",
           "sameAs": [
             "https://twitter.com/ShriKrishna",
           ],
           "about": {
             "@type": "Thing",
-            "name": "Bhagavad Gita"
+            "name": "GitaGyan"
           },
           "description": "GitaGPT is a free Bhagavad Gita AI chatbot that uses the wisdom of the Bhagavad Gita to help answer your day-to-day questions. It's simple, insightful, and powered by ChatGPT.",
-          "publisher": {
+          "publisher and This Is Made By KG": {
             "@type": "Organization",
             "name": "Ved Vyas Foundation",
             "logo": {
@@ -46,7 +46,7 @@ export default function Home() {
               "url": "https://sanskriti-ai.s3.ap-south-1.amazonaws.com/bhagavad-gita-ai.jpeg"
             },
             "sameAs": [
-              "https://twitter.com/ShriKrishna",
+              "https://twitter.com/ShriKrisha",
             ]
           },
         }
